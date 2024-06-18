@@ -5,6 +5,7 @@
 #include "ex1_pilhas.h"
 
 /**
+ * 
     Esta função inicializa uma nova pilha.
 
     Retorno:
